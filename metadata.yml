@@ -1,0 +1,12 @@
+---
+:id: 87395462
+:submitters:
+- :name: William Barker
+  :email: s4642798@student.uq.edu.au
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-13 02:50:06.942552000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-09-12 19:50:06.942552000 Z
+:status: processed
+:score: 50.0
